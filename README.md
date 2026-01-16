@@ -35,16 +35,27 @@ Key steps included:
 
 ## 5. Visuals and Insights
 ### 5-1. Higher Prices Do Not Lead to Meaningfully Higher Ratings
+<img src="/AvgRatingPriceTier.png" alt="Avg Rating by Price Tier" width="400" />
+<p><b>Insight:</b> Average ratings are similar across price tiers; higher prices do not guarantee higher satisfaction.</p>
+
 - No clear upward trend in ratings as prices increase
 - Ratings plateau or fluctuate beyond certain price levels
 ### 5-2. Customer Ratings Do Not Increase Consistently as Prices Rise
+<img src="/AvgRatingTrend.png" alt="Avg Rating Trend by Price" width="800" />
+<p><b>Insight:</b> Ratings show no consistent upward trend as prices increase; patterns plateau or fluctuate.</p>
+
 - No clear upward trend in ratings as prices increase
 - Ratings plateau or fluctuate beyond certain price levels
 ### 5-3. Customer Satisfaction Varies Widely Within the Same Price Range
+<img src="/PriceVRating.png" alt="Price vs Rating" width="800" />
+<p><b>Insight:</b> Ratings vary widely even within the same price range, indicating price alone is not a reliable quality signal.</p>
+
 - Large variation in ratings exists within identical price ranges
 - Both high- and low-rated products appear at all price levels
 - Price alone is insufficient to explain customer satisfaction
 ### 5-4.Only a Few Brands Achieve Both Premium Pricing and High Ratings
+<img src="/BrandPositioningMap.png" alt="Brand Positioning Map" width="800" />
+<p><b>Insight:</b> Only a small number of brands combine high prices with consistently high ratings; many mid-priced brands perform similarly.</p>
 - A small number of brands combine high prices with consistently high ratings
 - Many mid-priced brands perform as well as, or better than, premium brands
 - Premium pricing without strong performance presents a reputational risk
