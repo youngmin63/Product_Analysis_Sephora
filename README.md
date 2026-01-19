@@ -56,6 +56,7 @@ Key steps included:
 ### 5-4.Only a Few Brands Achieve Both Premium Pricing and High Ratings
 <img src="/BrandPositioningMap.png" alt="Brand Positioning Map" width="800" />
 <p><b>Insight:</b> Only a small number of brands combine high prices with consistently high ratings; many mid-priced brands perform similarly.</p>
+
 - A small number of brands combine high prices with consistently high ratings
 - Many mid-priced brands perform as well as, or better than, premium brands
 - Premium pricing without strong performance presents a reputational risk
